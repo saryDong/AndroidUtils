@@ -1,0 +1,26 @@
+工具文件说明
+
+ProgressDialogUtil  显示隐藏进度条
+
+CopyWriteFileUtil 文件拷贝，文件读取类
+
+FaceDetectorUtils  人脸检测工具类
+
+TimerUtil  倒计时工具类
+
+ImageUtils 图像处理工具类
+
+SPUtils  SharedPreferences工具类
+
+SelfScrollView  带滑动监听的ScrollView
+
+DownloadHelper  文件下载工具类
+
+DisplayUtils 像素转换工具类
+
+DelTagsUtil  文本中html,css等标签删除工具类
+
+PreandNextUtil  上下页翻页工具类
+
+QRCodeUtil 文本生成二维码工具类
+
